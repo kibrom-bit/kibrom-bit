@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software engineering**
 
-- 👨‍💻 All of my projects are available at [https://kebi-portfolio-8y3uspflk-kibroms-projects-fa770174.vercel.app/](https://kebi-portfolio-8y3uspflk-kibroms-projects-fa770174.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kebi-portfolio.vercel.app/](https://kebi-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Express, Python, and Android**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kibrom abebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kibrom abebe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kibroma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kibroma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
